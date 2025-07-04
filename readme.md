@@ -9,7 +9,7 @@ A simple blog posting application with CRUD functionality.
 - Markdown support for posts
 
 ## Technologies
-- **Frontend**: React, Tailwind CSS
+- **Frontend**: Template Engines (EJS)
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Auth**: JWT
@@ -21,20 +21,11 @@ A simple blog posting application with CRUD functionality.
 
 
    cd backend && npm install
-cd ../frontend && npm install
+
 
 
 # Backend
 cd backend && npm start
-# Frontend
-cd ../frontend && npm start
 
 
 
-
-### How to Use:
-1. Copy this code.
-2. Paste it into a new `README.md` file in your repo.
-3. Replace placeholders (like `your_connection_string`) with actual values.
-
-Let me know if you'd like any changes!
